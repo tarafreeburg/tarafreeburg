@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tarafreeburg
+👋 Hi, I’m @tarafreeburg
 - 👀 I’m interested in development with C, C++, and Python
 - 🌱 I’m currently learning AWS, Terraform
 - 📫 Reach me via email tara.r.freeburg@gmail.com
